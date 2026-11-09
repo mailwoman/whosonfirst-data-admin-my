@@ -53,8 +53,7 @@
     "wof:belongsto":[
         102191569,
         85632739,
-        85675181,
-        890490945
+        85675181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +77,7 @@
     "wof:id":890489553,
     "wof:lastmodified":1690848198,
     "wof:name":"Bukit Jalil",
-    "wof:parent_id":890490945,
+    "wof:parent_id":85675181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-my",
     "wof:superseded_by":[],
